@@ -99,7 +99,8 @@ def main():
         "@MerttEka", 
         "@Shewabrand", 
         "@Fashiontera", 
-        "@marakibrand"
+        "@marakibrand",
+        "@belaclassic"
     ]
     scraper = TelegramScraper()
 
