@@ -1,0 +1,10 @@
+dotenv
+json
+langdetect
+nltk
+os
+pandas
+re
+scripts
+telethon
+typing
