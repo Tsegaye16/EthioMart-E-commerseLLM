@@ -174,4 +174,4 @@ Feel free to fork this repository, open issues, and submit pull requests for imp
 
 ## Contact
 
-For questions or suggestions, reach out to **[Your Name]** at abewatsegaye16@gmail.com
+For questions or suggestions, reach out to **_abewatsegaye16@gmail.com_**
